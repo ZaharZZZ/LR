@@ -10,6 +10,7 @@ namespace MoreZZZZadach
     {
         static void Main(string[] args)
         {
+
             
         }
     }

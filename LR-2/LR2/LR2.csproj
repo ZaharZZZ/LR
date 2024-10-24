@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Istoria_prodazh.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vid_odezhdi.cs" />
+    <Compile Include="Veshi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

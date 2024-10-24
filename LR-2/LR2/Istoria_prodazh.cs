@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace LR2
 {
-    internal class Program
+    internal class Istoria_prodazh
     {
-        static void Main(string[] args)
-        {
-            
-        }
+
     }
 }

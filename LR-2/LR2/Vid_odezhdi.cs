@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace LR2
 {
-    internal class Program
+    public enum Vidi_Odezhdi
     {
-        static void Main(string[] args)
-        {
-            
-        }
+        Zadidas = 0,
+        Zike,
+        Zoika_gobana,
+        Zuma,
+        Zalenciaga,
+        Ztone_Zisland,
     }
 }
